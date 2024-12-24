@@ -1,5 +1,4 @@
 
-### ** LlamaIndex-CrewAI-Assistant**  
 
 
 # LlamaIndex + CrewAI Assistant
