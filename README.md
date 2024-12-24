@@ -1,6 +1,4 @@
 
----
-
 ### **Repo 2: LlamaIndex-CrewAI-Assistant**  
 
 ```markdown
